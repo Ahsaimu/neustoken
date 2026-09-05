@@ -2,13 +2,14 @@
   "name": "NEUS TOKEN",
   "symbol": "NEUS",
   "description": "NEUS TOKEN is a digital asset built on the Solana blockchain.",
-  "image": "https://ahsimu.github.io/neustoken/logo.png",
+  "image": "https://ahsaimu.github.io/neustoken/logo.png",
+  "external_url": "https://ahsaimu.github.io/neustoken/",
   "seller_fee_basis_points": 0,
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://ahsimu.github.io/neustoken/logo.png",
+        "uri": "https://ahsaimu.github.io/neustoken/logo.png",
         "type": "image/png"
       }
     ],
